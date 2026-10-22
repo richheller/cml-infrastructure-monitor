@@ -2,7 +2,6 @@
 
 **🟢 UP**
 
-Last checked: 2026-10-22 22:50 UTC  
 Probe: `LENOVO1`
 
 ## Infrastructure Health
@@ -21,4 +20,10 @@ Probe: `LENOVO1`
 - Partial labs: 0
 - Total nodes: 846
 
-_If this timestamp is more than ~30 minutes old, the probe may be offline._
+_Checked locally every 15 minutes. Published only when infrastructure status or aggregate lab statistics change._
+
+## Sanitized Topology Preview
+
+_Last qualifying topology snapshot; not necessarily the current running lab._
+
+![Sanitized CML topology](images/topology_preview.svg)
