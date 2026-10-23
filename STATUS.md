@@ -14,11 +14,11 @@ Probe: `LENOVO1`
 
 ## Aggregate Lab Statistics
 
-- Total labs: 162
+- Total labs: 163
 - Running labs: 1
-- Stopped labs: 161
+- Stopped labs: 162
 - Partial labs: 0
-- Total nodes: 854
+- Total nodes: 859
 
 _Checked locally every 15 minutes. Published only when infrastructure status or aggregate lab statistics change._
 
@@ -34,6 +34,7 @@ _Last three distinct sanitized topology snapshots; these are not necessarily thr
 
 | Captured (UTC) | Devices | Links | Routers | Switches |
 |---|---:|---:|---:|---:|
+| 2026-10-23 05:36 UTC | 5 | 4 | 4 | 1 |
 | 2026-10-23 05:12 UTC | 5 | 4 | 3 | 2 |
 
 ## Physical Home Lab

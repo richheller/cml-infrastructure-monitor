@@ -21,29 +21,21 @@
 <text x="315" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">4</text>
 <rect x="556" y="134" width="245" height="68" rx="12" fill="#142a44" stroke="#2a4a69"/>
 <text x="572" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#8daece">ROUTERS</text>
-<text x="572" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">3</text>
+<text x="572" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">4</text>
 <rect x="813" y="134" width="245" height="68" rx="12" fill="#142a44" stroke="#2a4a69"/>
 <text x="829" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#8daece">SWITCHES</text>
-<text x="829" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">2</text>
+<text x="829" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">1</text>
 <rect x="42" y="218" width="1016" height="503" rx="16" fill="#0a192c" stroke="#213954"/>
 <text x="61" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8daece" letter-spacing="1">NETWORK MAP</text>
-<line x1="555.0" y1="225.0" x2="213.8" y2="448.4" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="555.0" y1="225.0" x2="213.8" y2="448.4" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
-<line x1="213.8" y1="448.4" x2="896.2" y2="448.4" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="213.8" y1="448.4" x2="896.2" y2="448.4" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
-<line x1="213.8" y1="448.4" x2="213.8" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="213.8" y1="448.4" x2="213.8" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
-<line x1="896.2" y1="448.4" x2="896.2" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="896.2" y1="448.4" x2="896.2" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
+<line x1="555.0" y1="225.0" x2="213.8" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
+<line x1="555.0" y1="225.0" x2="213.8" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
+<line x1="555.0" y1="225.0" x2="441.2" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
+<line x1="555.0" y1="225.0" x2="441.2" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
+<line x1="555.0" y1="225.0" x2="668.8" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
+<line x1="555.0" y1="225.0" x2="668.8" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
+<line x1="555.0" y1="225.0" x2="896.2" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
+<line x1="555.0" y1="225.0" x2="896.2" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
 <g transform="translate(555.0 225.0)" filter="url(#shadow)">
-<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
-<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
-<circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
-<path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
-<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R1</text>
-<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
-</g>
-<g transform="translate(213.8 448.4)" filter="url(#shadow)">
 <rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
 <rect x="-49" y="-36" width="5" height="76" rx="2" fill="#51e4c6"/>
 <rect x="-15" y="-25" width="30" height="16" rx="3" fill="none" stroke="#51e4c6" stroke-width="1.9"/>
@@ -53,17 +45,15 @@
 <text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">SW1</text>
 <text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#51e4c6">SWITCH</text>
 </g>
-<g transform="translate(896.2 448.4)" filter="url(#shadow)">
-<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
-<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#51e4c6"/>
-<rect x="-15" y="-25" width="30" height="16" rx="3" fill="none" stroke="#51e4c6" stroke-width="1.9"/>
-<rect x="-10" y="-19" width="4" height="4" rx="1" fill="#51e4c6"/>
-<rect x="-2" y="-19" width="4" height="4" rx="1" fill="#51e4c6"/>
-<rect x="6" y="-19" width="4" height="4" rx="1" fill="#51e4c6"/>
-<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">SW2</text>
-<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#51e4c6">SWITCH</text>
-</g>
 <g transform="translate(213.8 645.0)" filter="url(#shadow)">
+<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
+<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
+<circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
+<path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
+<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R1</text>
+<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
+</g>
+<g transform="translate(441.2 645.0)" filter="url(#shadow)">
 <rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
 <rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
 <circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
@@ -71,12 +61,20 @@
 <text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R2</text>
 <text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
 </g>
-<g transform="translate(896.2 645.0)" filter="url(#shadow)">
+<g transform="translate(668.8 645.0)" filter="url(#shadow)">
 <rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
 <rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
 <circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
 <path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
 <text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R3</text>
+<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
+</g>
+<g transform="translate(896.2 645.0)" filter="url(#shadow)">
+<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
+<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
+<circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
+<path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
+<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R4</text>
 <text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
 </g>
 <text x="45" y="758" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#a1bdd6">DATA SOURCE: CISCO MODELING LABS REST API</text>
