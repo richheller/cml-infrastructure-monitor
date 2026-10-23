@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="170" viewBox="0 0 920 170" role="img" aria-label="Last sampled infrastructure status: CHECK STATUS">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="170" viewBox="0 0 920 170" role="img" aria-label="Last sampled infrastructure status: ONLINE">
 <rect width="920" height="170" rx="22" fill="#0b1729"/>
 <rect x="2" y="2" width="916" height="166" rx="20" fill="none" stroke="#294765" stroke-width="2"/>
-<rect x="26" y="30" width="6" height="110" rx="3" fill="#fbbf24"/>
-<circle cx="80" cy="84" r="27" fill="none" stroke="#fbbf24" stroke-opacity="0.21" stroke-width="10"/>
-<circle cx="80" cy="84" r="13" fill="#fbbf24"/>
+<rect x="26" y="30" width="6" height="110" rx="3" fill="#4DE2B1"/>
+<circle cx="80" cy="84" r="27" fill="none" stroke="#4DE2B1" stroke-opacity="0.21" stroke-width="10"/>
+<circle cx="80" cy="84" r="13" fill="#4DE2B1"/>
 <text x="130" y="55" fill="#99b9d7" font-family="Arial,sans-serif" font-size="17" letter-spacing="2">CML INFRASTRUCTURE</text>
-<text x="130" y="106" fill="#fbbf24" font-family="Arial,sans-serif" font-size="42" font-weight="bold">CHECK STATUS</text>
-<text x="130" y="132" fill="#a2bad4" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">SEE INFRASTRUCTURE HEALTH BELOW</text>
-<path d="M735 85h26l10-18 16 36 15-26 10 8h75" fill="none" stroke="#fbbf24" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+<text x="130" y="106" fill="#4DE2B1" font-family="Arial,sans-serif" font-size="42" font-weight="bold">ONLINE</text>
+<text x="130" y="132" fill="#a2bad4" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">VMWARE + CML + API REACHABLE</text>
+<path d="M735 85h26l10-18 16 36 15-26 10 8h75" fill="none" stroke="#4DE2B1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
 <text x="725" y="132" fill="#829fbe" font-family="Arial,sans-serif" font-size="12">15-MIN CHECK CYCLE</text>
 </svg>
