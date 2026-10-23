@@ -14,11 +14,11 @@ Probe: `LENOVO1`
 
 ## Aggregate Lab Statistics
 
-- Total labs: 160
+- Total labs: 161
 - Running labs: 1
-- Stopped labs: 159
+- Stopped labs: 160
 - Partial labs: 0
-- Total nodes: 846
+- Total nodes: 849
 
 _Checked locally every 15 minutes. Published only when infrastructure status or aggregate lab statistics change._
 
