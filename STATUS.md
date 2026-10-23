@@ -27,3 +27,17 @@ _Checked locally every 15 minutes. Published only when infrastructure status or 
 _Last qualifying topology snapshot; not necessarily the current running lab._
 
 ![Sanitized CML topology](images/topology_preview.svg)
+
+## Recent Topology Snapshots
+
+_Last three distinct sanitized topology snapshots; these are not necessarily three different labs._
+
+| Captured (UTC) | Devices | Links | Routers | Switches |
+|---|---:|---:|---:|---:|
+| 2026-10-23 05:12 UTC | 5 | 4 | 3 | 2 |
+
+## Physical Home Lab
+
+_Physical networking equipment and server environment supporting my hands-on lab work._
+
+<img src="images/home_lab_host.jpg" alt="Home lab rack with networking equipment" width="430">
