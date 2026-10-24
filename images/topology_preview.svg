@@ -1,73 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="830" viewBox="0 0 1100 830">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10233d"/><stop offset="1" stop-color="#050e1b"/></linearGradient>
-<linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#203b5e"/><stop offset="1" stop-color="#102037"/></linearGradient>
-<filter id="glow"><feGaussianBlur stdDeviation="5"/></filter>
-<filter id="shadow"><feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#000" flood-opacity="0.35"/></filter>
-</defs>
-<rect width="1100" height="830" rx="24" fill="url(#bg)"/>
-<rect x="18" y="18" width="1064" height="794" rx="20" fill="none" stroke="#294a6b"/>
-<rect x="42" y="42" width="7" height="46" rx="3" fill="#51e4c6"/>
-<text x="66" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#ecf6ff">CML / NETWORK TOPOLOGY</text>
-<text x="67" y="92" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#99b9d9">AUTOMATED LAB TOPOLOGY SNAPSHOT  ·  SANITIZED</text>
-<circle cx="976" cy="66" r="5" fill="#51e4c6"/>
-<text x="995" y="71" text-anchor="start" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#51e4c6">SNAPSHOT</text>
-<line x1="40" y1="113" x2="1060" y2="113" stroke="#28415d"/>
-<rect x="42" y="134" width="245" height="68" rx="12" fill="#142a44" stroke="#2a4a69"/>
-<text x="58" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#8daece">DEVICES</text>
-<text x="58" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">4</text>
-<rect x="299" y="134" width="245" height="68" rx="12" fill="#142a44" stroke="#2a4a69"/>
-<text x="315" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#8daece">CONNECTIONS</text>
-<text x="315" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">3</text>
-<rect x="556" y="134" width="245" height="68" rx="12" fill="#142a44" stroke="#2a4a69"/>
-<text x="572" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#8daece">ROUTERS</text>
-<text x="572" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">3</text>
-<rect x="813" y="134" width="245" height="68" rx="12" fill="#142a44" stroke="#2a4a69"/>
-<text x="829" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1" fill="#8daece">SWITCHES</text>
-<text x="829" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#eaf5ff">1</text>
-<rect x="42" y="218" width="1016" height="503" rx="16" fill="#0a192c" stroke="#213954"/>
-<text x="61" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#8daece" letter-spacing="1">NETWORK MAP</text>
-<line x1="555.0" y1="225.0" x2="555.0" y2="435.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="555.0" y1="225.0" x2="555.0" y2="435.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
-<line x1="555.0" y1="435.0" x2="213.8" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="555.0" y1="435.0" x2="213.8" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
-<line x1="555.0" y1="435.0" x2="896.2" y2="645.0" stroke="#318bb9" stroke-width="9" opacity="0.22" filter="url(#glow)"/>
-<line x1="555.0" y1="435.0" x2="896.2" y2="645.0" stroke="#5b93bc" stroke-width="2.8" opacity="0.85" stroke-linecap="round"/>
-<g transform="translate(555.0 225.0)" filter="url(#shadow)">
-<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
-<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
-<circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
-<path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
-<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R1</text>
-<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="680" viewBox="0 0 1120 680" data-nodes="2" data-links="1" data-routers="0" data-switches="2">
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#e8edf2" stroke-width="1"/></pattern></defs>
+<rect width="1120" height="680" rx="14" fill="#fff"/>
+<rect x="14" y="94" width="1092" height="535" rx="12" fill="#f8fafc" stroke="#dce5ed"/>
+<rect x="15" y="95" width="1090" height="533" rx="12" fill="url(#grid)"/>
+<text x="32" y="47" font-family="Arial,Segoe UI,sans-serif" font-size="29" font-weight="700" fill="#17283b">CML Topology Snapshot</text>
+<text x="32" y="76" font-family="Arial,Segoe UI,sans-serif" font-size="14" fill="#6c7f91">2 devices  ·  1 links  ·  0 routers  ·  2 switches</text>
+<text x="1090" y="48" text-anchor="end" font-family="Arial,Segoe UI,sans-serif" font-size="13" fill="#64748b">Captured: Oct 24, 2026 01:41 PM Mountain Daylight Time</text>
+<line x1="150.0" y1="366.0" x2="970.0" y2="366.0" stroke="#7d8997" stroke-width="2.8"/>
+<g transform="translate(150.0,366.0)">
+<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
+<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
+<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
+<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW1</text>
+<text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
-<g transform="translate(555.0 435.0)" filter="url(#shadow)">
-<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
-<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#51e4c6"/>
-<rect x="-15" y="-25" width="30" height="16" rx="3" fill="none" stroke="#51e4c6" stroke-width="1.9"/>
-<rect x="-10" y="-19" width="4" height="4" rx="1" fill="#51e4c6"/>
-<rect x="-2" y="-19" width="4" height="4" rx="1" fill="#51e4c6"/>
-<rect x="6" y="-19" width="4" height="4" rx="1" fill="#51e4c6"/>
-<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">SW1</text>
-<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#51e4c6">SWITCH</text>
+<g transform="translate(970.0,366.0)">
+<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
+<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
+<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
+<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW2</text>
+<text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
-<g transform="translate(213.8 645.0)" filter="url(#shadow)">
-<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
-<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
-<circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
-<path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
-<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R2</text>
-<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
-</g>
-<g transform="translate(896.2 645.0)" filter="url(#shadow)">
-<rect x="-49" y="-36" width="98" height="76" rx="13" fill="url(#card)" stroke="#406387"/>
-<rect x="-49" y="-36" width="5" height="76" rx="2" fill="#65adff"/>
-<circle cx="0" cy="-17" r="12" fill="none" stroke="#65adff" stroke-width="1.9"/>
-<path d="M -8 -17 H 8 M -4 -21 L -8 -17 L -4 -13 M 4 -21 L 8 -17 L 4 -13" fill="none" stroke="#65adff" stroke-width="1.6"/>
-<text x="0" y="15" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">R3</text>
-<text x="0" y="31" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="9" letter-spacing="1" fill="#65adff">ROUTER</text>
-</g>
-<text x="45" y="758" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#a1bdd6">DATA SOURCE: CISCO MODELING LABS REST API</text>
-<text x="1053" y="758" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#b6d1e7">UPDATES ON TOPOLOGY CHANGES</text>
-<text x="45" y="788" font-family="Segoe UI,Arial,sans-serif" font-size="11" fill="#748fa9">TOPOLOGY SNAPSHOT  ·  CONNECTIONS INDICATE LAB WIRES, NOT VERIFIED TRAFFIC</text>
+<text x="34" y="658" font-family="Arial,Segoe UI,sans-serif" font-size="12" fill="#65768a">Snapshot of lab connections; interface tags appear only when available from CML</text>
 </svg>
