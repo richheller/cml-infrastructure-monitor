@@ -1,12 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="170" viewBox="0 0 920 170" role="img" aria-label="Last sampled infrastructure status: ONLINE">
-<rect width="920" height="170" rx="22" fill="#0b1729"/>
-<rect x="2" y="2" width="916" height="166" rx="20" fill="none" stroke="#294765" stroke-width="2"/>
-<rect x="26" y="30" width="6" height="110" rx="3" fill="#4DE2B1"/>
-<circle cx="80" cy="84" r="27" fill="none" stroke="#4DE2B1" stroke-opacity="0.21" stroke-width="10"/>
-<circle cx="80" cy="84" r="13" fill="#4DE2B1"/>
-<text x="130" y="55" fill="#99b9d7" font-family="Arial,sans-serif" font-size="17" letter-spacing="2">CML INFRASTRUCTURE</text>
-<text x="130" y="106" fill="#4DE2B1" font-family="Arial,sans-serif" font-size="42" font-weight="bold">ONLINE</text>
-<text x="130" y="132" fill="#a2bad4" font-family="Arial,sans-serif" font-size="13" letter-spacing="1">VMWARE + CML + API REACHABLE</text>
-<path d="M735 85h26l10-18 16 36 15-26 10 8h75" fill="none" stroke="#4DE2B1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
-<text x="725" y="132" fill="#829fbe" font-family="Arial,sans-serif" font-size="12">15-MIN CHECK CYCLE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="228" viewBox="0 0 920 228" role="img" aria-label="CML infrastructure status: ONLINE">
+  <rect x="0.5" y="0.5" width="919" height="227" rx="11" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="26" y="36" fill="#334155" font-family="Arial,sans-serif" font-size="16" font-weight="bold">CML Infrastructure</text>
+  <circle cx="747" cy="29" r="7" fill="#4DE2B1"/>
+  <text x="764" y="35" fill="#334155" font-family="Arial,sans-serif" font-size="14" font-weight="bold">ONLINE</text>
+  <line x1="26" y1="51" x2="894" y2="51" stroke="#e2e8f0"/>
+
+  <line x1="270" y1="130" x2="333" y2="130" stroke="#64748b" stroke-width="2.5"/>
+  <line x1="587" y1="130" x2="650" y2="130" stroke="#64748b" stroke-width="2.5"/>
+  <circle cx="302" cy="130" r="3.5" fill="#4DE2B1"/>
+  <circle cx="619" cy="130" r="3.5" fill="#4DE2B1"/>
+
+  <rect x="33" y="78" width="237" height="112" rx="8" fill="#ffffff" stroke="#b6c5d4" stroke-width="1.5"/>
+  <rect x="33" y="78" width="237" height="5" rx="2" fill="#64748b"/>
+  <rect x="53" y="103" width="27" height="23" rx="2" fill="none" stroke="#486782" stroke-width="2"/>
+  <path d="M58 109 H74 M58 115 H74 M58 121 H70" stroke="#486782" stroke-width="1.5"/>
+  <text x="94" y="114" fill="#172b42" font-family="Arial,sans-serif" font-size="17" font-weight="bold">VMware Host</text>
+  <circle cx="95" cy="151" r="4.5" fill="#4DE2B1"/>
+  <text x="106" y="155" fill="#64748b" font-family="Arial,sans-serif" font-size="12">REACHABLE</text>
+
+  <rect x="333" y="78" width="254" height="112" rx="8" fill="#ffffff" stroke="#b6c5d4" stroke-width="1.5"/>
+  <rect x="333" y="78" width="254" height="5" rx="2" fill="#64748b"/>
+  <rect x="352" y="103" width="29" height="23" rx="3" fill="none" stroke="#486782" stroke-width="2"/>
+  <rect x="357" y="108" width="19" height="11" rx="1" fill="none" stroke="#486782" stroke-width="1.5"/>
+  <text x="395" y="114" fill="#172b42" font-family="Arial,sans-serif" font-size="17" font-weight="bold">CML Virtual Machine</text>
+  <circle cx="395" cy="151" r="4.5" fill="#4DE2B1"/>
+  <text x="406" y="155" fill="#64748b" font-family="Arial,sans-serif" font-size="12">REACHABLE</text>
+
+  <rect x="650" y="78" width="237" height="112" rx="8" fill="#ffffff" stroke="#b6c5d4" stroke-width="1.5"/>
+  <rect x="650" y="78" width="237" height="5" rx="2" fill="#64748b"/>
+  <path d="M672 109 h-7 v17 h7 M682 109 h7 v17 h-7" stroke="#486782" stroke-width="2" fill="none"/>
+  <text x="705" y="114" fill="#172b42" font-family="Arial,sans-serif" font-size="17" font-weight="bold">CML REST API</text>
+  <circle cx="705" cy="151" r="4.5" fill="#4DE2B1"/>
+  <text x="716" y="155" fill="#64748b" font-family="Arial,sans-serif" font-size="12">REACHABLE</text>
+
+  <text x="26" y="215" fill="#64748b" font-family="Arial,sans-serif" font-size="12">Topology-style health summary  |  Scheduled probe: every 15 minutes  |  Last published sample</text>
 </svg>
