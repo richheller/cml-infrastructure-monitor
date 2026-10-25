@@ -5,7 +5,7 @@
 <rect x="15" y="95" width="1090" height="533" rx="12" fill="url(#grid)"/>
 <text x="32" y="47" font-family="Arial,Segoe UI,sans-serif" font-size="29" font-weight="700" fill="#17283b">CML Topology Snapshot</text>
 <text x="32" y="76" font-family="Arial,Segoe UI,sans-serif" font-size="14" fill="#6c7f91">18 devices  ·  17 links  ·  9 routers  ·  5 switches</text>
-<text x="1090" y="48" text-anchor="end" font-family="Arial,Segoe UI,sans-serif" font-size="13" fill="#64748b">Captured: Oct 25, 2026 01:24 PM PDT</text>
+<text x="1090" y="48" text-anchor="end" font-family="Arial,Segoe UI,sans-serif" font-size="13" fill="#64748b">Captured: Oct 25, 2026 01:27 PM PDT</text>
 <line x1="662.5" y1="366.0" x2="525.8" y2="366.0" stroke="#7d8997" stroke-width="2.8"/>
 <line x1="525.8" y1="366.0" x2="355.0" y2="366.0" stroke="#7d8997" stroke-width="2.8"/>
 <line x1="355.0" y1="366.0" x2="218.3" y2="366.0" stroke="#7d8997" stroke-width="2.8"/>
@@ -24,142 +24,138 @@
 <line x1="833.3" y1="437.7" x2="901.7" y2="294.3" stroke="#7d8997" stroke-width="2.8"/>
 <line x1="970.0" y1="437.7" x2="901.7" y2="294.3" stroke="#7d8997" stroke-width="2.8"/>
 <g transform="translate(662.5,366.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R1</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(525.8,366.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R2</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(355.0,366.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R3</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(218.3,366.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R4</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(423.3,581.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R5</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(662.5,151.0)">
-<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
-<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
-<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
-<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="-33" y="-20" width="66" height="40" rx="5" fill="#eff5fa" stroke="#47769c" stroke-width="2"/>
+<rect x="-23" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="-8" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="7" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<circle cx="24" cy="-1" r="2" fill="#5b9b91"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW1</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
 <g transform="translate(662.5,581.0)">
-<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
-<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
-<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
-<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="-33" y="-20" width="66" height="40" rx="5" fill="#eff5fa" stroke="#47769c" stroke-width="2"/>
+<rect x="-23" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="-8" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="7" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<circle cx="24" cy="-1" r="2" fill="#5b9b91"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW2</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
 <g transform="translate(218.3,151.0)">
-<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
-<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
-<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
-<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="-33" y="-20" width="66" height="40" rx="5" fill="#eff5fa" stroke="#47769c" stroke-width="2"/>
+<rect x="-23" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="-8" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="7" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<circle cx="24" cy="-1" r="2" fill="#5b9b91"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW3</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
 <g transform="translate(730.8,151.0)">
-<rect x="-27" y="-26" width="54" height="48" rx="6" fill="#e5eff7" stroke="#4078a5" stroke-width="2"/>
-<rect x="-18" y="-17" width="36" height="25" rx="2" fill="#98c5e7"/>
-<path d="M0 9 V17 M-14 17 H14" stroke="#4078a5" stroke-width="2"/>
+<rect x="-22" y="-21" width="44" height="33" rx="3" fill="#f3f7fa" stroke="#47769c" stroke-width="1.8"/>
+<rect x="-16" y="-15" width="32" height="21" rx="1" fill="#dceaf3"/>
+<path d="M0 12 V20 M-12 20 H12" stroke="#47769c" stroke-width="1.8"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">PC1</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">PC</text>
 </g>
 <g transform="translate(730.8,581.0)">
-<rect x="-27" y="-26" width="54" height="48" rx="6" fill="#e5eff7" stroke="#4078a5" stroke-width="2"/>
-<rect x="-18" y="-17" width="36" height="25" rx="2" fill="#98c5e7"/>
-<path d="M0 9 V17 M-14 17 H14" stroke="#4078a5" stroke-width="2"/>
+<rect x="-22" y="-21" width="44" height="33" rx="3" fill="#f3f7fa" stroke="#47769c" stroke-width="1.8"/>
+<rect x="-16" y="-15" width="32" height="21" rx="1" fill="#dceaf3"/>
+<path d="M0 12 V20 M-12 20 H12" stroke="#47769c" stroke-width="1.8"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">PC2</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">PC</text>
 </g>
 <g transform="translate(150.0,151.0)">
-<rect x="-27" y="-26" width="54" height="48" rx="6" fill="#e5eff7" stroke="#4078a5" stroke-width="2"/>
-<rect x="-18" y="-17" width="36" height="25" rx="2" fill="#98c5e7"/>
-<path d="M0 9 V17 M-14 17 H14" stroke="#4078a5" stroke-width="2"/>
+<rect x="-22" y="-21" width="44" height="33" rx="3" fill="#f3f7fa" stroke="#47769c" stroke-width="1.8"/>
+<rect x="-16" y="-15" width="32" height="21" rx="1" fill="#dceaf3"/>
+<path d="M0 12 V20 M-12 20 H12" stroke="#47769c" stroke-width="1.8"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">PC3</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">PC</text>
 </g>
 <g transform="translate(218.3,509.3)">
-<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
-<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
-<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
-<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="-33" y="-20" width="66" height="40" rx="5" fill="#eff5fa" stroke="#47769c" stroke-width="2"/>
+<rect x="-23" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="-8" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="7" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<circle cx="24" cy="-1" r="2" fill="#5b9b91"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW4</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
 <g transform="translate(150.0,509.3)">
-<rect x="-27" y="-26" width="54" height="48" rx="6" fill="#e5eff7" stroke="#4078a5" stroke-width="2"/>
-<rect x="-18" y="-17" width="36" height="25" rx="2" fill="#98c5e7"/>
-<path d="M0 9 V17 M-14 17 H14" stroke="#4078a5" stroke-width="2"/>
+<rect x="-22" y="-21" width="44" height="33" rx="3" fill="#f3f7fa" stroke="#47769c" stroke-width="1.8"/>
+<rect x="-16" y="-15" width="32" height="21" rx="1" fill="#dceaf3"/>
+<path d="M0 12 V20 M-12 20 H12" stroke="#47769c" stroke-width="1.8"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">PC4</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">PC</text>
 </g>
 <g transform="translate(833.3,151.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R6</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(970.0,151.0)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R7</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(833.3,437.7)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R8</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(970.0,437.7)">
-<ellipse cx="0" cy="-8" rx="36" ry="22" fill="#297bb9" stroke="#15568c" stroke-width="2"/>
-<rect x="-36" y="-8" width="72" height="18" fill="#2473ad"/>
-<path d="M-36 -8 V10 A36 20 0 0 0 36 10 V-8" fill="#2473ad" stroke="#15568c" stroke-width="2"/>
-<path d="M-18 -13 L-1 -22 M-1 -22 l-4 9 M-1 -22 l-9 -1 M4 -1 L20 -11 M20 -11 l-6 9 M20 -11 l-9 -1" stroke="#fff" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="0" cy="0" r="27" fill="#eef4fa" stroke="#47769c" stroke-width="2"/>
+<path d="M-13 -7 H13 M-13 7 H13" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round"/>
+<path d="M7 -12 L14 -7 L7 -2 M-7 2 L-14 7 L-7 12" fill="none" stroke="#366b97" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">R9</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Router</text>
 </g>
 <g transform="translate(901.7,294.3)">
-<path d="M-42 -13 L19 -13 L42 0 L-19 0Z" fill="#3a92cc" stroke="#206ba5" stroke-width="2"/>
-<path d="M-42 -13 V10 L-19 22 V0Z" fill="#236da5"/>
-<path d="M-19 0 L42 0 V12 L-19 22Z" fill="#2b7bb3" stroke="#206ba5" stroke-width="2"/>
-<path d="M-17 -5 H12 M-12 -9 l-5 4 5 4 M12 -5 l-5 -4 M12 -5 l-5 4" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
+<rect x="-33" y="-20" width="66" height="40" rx="5" fill="#eff5fa" stroke="#47769c" stroke-width="2"/>
+<rect x="-23" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="-8" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<rect x="7" y="-5" width="10" height="8" rx="1" fill="none" stroke="#366b97" stroke-width="1.4"/>
+<circle cx="24" cy="-1" r="2" fill="#5b9b91"/>
 <text x="0" y="48" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="16" font-weight="700" fill="#17283b">SW5</text>
 <text x="0" y="65" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="11" fill="#65768a">Switch</text>
 </g>
@@ -195,5 +191,4 @@
 <text x="818.6" y="388.5" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="10" fill="#435466">G0/0</text>
 <rect x="964.9" y="374.9" width="39.6" height="20" rx="4" fill="#ffffff" stroke="#cbd5e1" stroke-width="0.8"/>
 <text x="984.7" y="388.5" text-anchor="middle" font-family="Arial,Segoe UI,sans-serif" font-size="10" fill="#435466">G0/0</text>
-<text x="34" y="658" font-family="Arial,Segoe UI,sans-serif" font-size="12" fill="#65768a">CML network diagram · Interface labels shown when available</text>
 </svg>
