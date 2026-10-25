@@ -10,7 +10,7 @@ Probe: `LENOVO1`
 
 _Local checks run every 15 minutes; this is the last published sample, not a live stream._
 
-_Last published update (Pacific): 2026-10-24 04:10 PM PDT_
+_Last published update (Pacific): 2026-10-25 01:20 PM PDT_
 
 ## Infrastructure Health
 
@@ -38,10 +38,11 @@ _Last qualifying topology snapshot; not necessarily the current running lab._
 
 ## Recent Topology Snapshots
 
-_Last three distinct sanitized topology snapshots; these are not necessarily three different labs._
+_Last five distinct topology snapshots; these are not necessarily three different labs._
 
 | Captured (Pacific) | Devices | Links | Routers | Switches |
 |---|---:|---:|---:|---:|
+| 2026-10-25 01:20 PM PDT | 18 | 17 | 9 | 5 |
 | 2026-10-24 04:10 PM PDT | 18 | 17 | 9 | 5 |
 | 2026-10-24 01:21 PM PDT | 18 | 17 | 9 | 5 |
 | 2026-10-24 12:41 PM PDT | 2 | 1 | 0 | 2 |
