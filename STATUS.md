@@ -10,13 +10,13 @@ Probe: `LENOVO1`
 
 _Local checks run every 15 minutes; this is the last published sample, not a live stream._
 
-_Last published update (Pacific): 2026-10-28 01:51 AM PDT_
+_Last published update (Pacific): 2026-10-28 02:06 AM PDT_
 
 ## Infrastructure Health
 
 | Check | Result |
 |---|---|
-| VMware host ping | ❌ |
+| VMware host ping | ✅ |
 | CML VM ping | ✅ |
 | CML API login | ✅ |
 
