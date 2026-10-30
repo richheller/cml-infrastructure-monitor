@@ -10,7 +10,7 @@ Probe: `LENOVO1`
 
 _Local checks run every 15 minutes; this is the last published sample, not a live stream._
 
-_Last published update (Pacific): 2026-10-28 04:51 PM PDT_
+_Last published update (Pacific): 2026-10-29 10:11 PM PDT_
 
 ## Infrastructure Health
 
@@ -22,11 +22,11 @@ _Last published update (Pacific): 2026-10-28 04:51 PM PDT_
 
 ## Aggregate Lab Statistics
 
-- Total labs: 173
+- Total labs: 174
 - Running labs: 1
-- Stopped labs: 172
+- Stopped labs: 173
 - Partial labs: 0
-- Total nodes: 900
+- Total nodes: 904
 
 _Checked locally every 15 minutes. Published only when infrastructure status or aggregate lab statistics change._
 
@@ -42,11 +42,11 @@ _Last five distinct topology snapshots; these are not necessarily three differen
 
 | Captured (Pacific) | Devices | Links | Routers | Switches |
 |---|---:|---:|---:|---:|
+| 2026-10-29 10:11 PM PDT | 4 | 4 | 2 | 2 |
 | 2026-10-28 04:51 PM PDT | 5 | 5 | 2 | 3 |
 | 2026-10-28 02:06 PM PDT | 5 | 5 | 2 | 3 |
 | 2026-10-27 05:21 PM PDT | 3 | 4 | 0 | 3 |
 | 2026-10-27 04:51 PM PDT | 3 | 3 | 0 | 3 |
-| 2026-10-27 04:36 PM PDT | 6 | 5 | 4 | 2 |
 
 ## Physical Home Lab
 
