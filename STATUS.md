@@ -10,7 +10,7 @@ Probe: `LENOVO1`
 
 _Local checks run every 15 minutes; this is the last published sample, not a live stream._
 
-_Last published update (Pacific): 2026-11-11 03:06 AM PST_
+_Last published update (Pacific): 2026-11-13 01:21 PM PST_
 
 ## Infrastructure Health
 
@@ -26,7 +26,7 @@ _Last published update (Pacific): 2026-11-11 03:06 AM PST_
 - Running labs: 0
 - Stopped labs: 177
 - Partial labs: 0
-- Total nodes: 925
+- Total nodes: 927
 
 _Checked locally every 15 minutes. Published only when infrastructure status or aggregate lab statistics change._
 
